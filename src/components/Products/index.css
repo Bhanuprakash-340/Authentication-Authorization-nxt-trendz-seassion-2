@@ -1,0 +1,12 @@
+.products-app-container {
+  width: 100%;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-image {
+  height: 130px;
+}
